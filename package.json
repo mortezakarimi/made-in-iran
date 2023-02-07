@@ -14,7 +14,7 @@
   "author": "Mohamad Mohebifar",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.4.2",
+    "ejs": "^3.1.7",
     "github": "^2.1.0"
   }
 }
